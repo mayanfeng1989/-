@@ -5,4 +5,5 @@ mnum = 3
 mnum = 5
 
 num = 4
+mnum = 6
 
